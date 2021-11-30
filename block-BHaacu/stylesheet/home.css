@@ -1,0 +1,9 @@
+.brand::before {
+  content: "Uni";
+  color: --primary;
+}
+
+.sub-menu li {
+  display: none;
+}
+/*# sourceMappingURL=home.css.map */

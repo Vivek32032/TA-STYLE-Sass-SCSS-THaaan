@@ -1,0 +1,12 @@
+.bg-color-primary{
+  background-color: $primary-color;
+}
+.brand::before{
+  content: "Uni";
+  color: $primary-color;
+}
+
+.sub-menu li{
+  display: none;
+}
+
